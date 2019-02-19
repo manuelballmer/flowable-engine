@@ -21,7 +21,6 @@
 	   copy.static.resources,
 	   copy.dependencies,
 	   copy.webapps,
-	   copy.docs,
 	   copy.sql">
 		<zip destfile="${target.distro.root}.zip">
 			<fileset dir="target/zip">
